@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Write Haikus based on images
 
-DO NOT LEAVE IT LIKE THIS!!!
+Using strings instead of #s to be saved. You can compare your poem to the previous writer, and try to do a better job. But since art is subjective, it's always good enough.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
